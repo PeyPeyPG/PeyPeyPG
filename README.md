@@ -3,7 +3,7 @@
 ## About Me
 
 <p>I'm Peyton Duong currenly a sophomore computer science major at LSU minoring in electrical engineering and math. Recently, I've been facinated by AI and how we could implement it to our everyday lives. It's all the hype right now. But, I don't want to hop on the bandwagon; I want to drive it.</p>
----
+
 
 ## Reach Me Here
 
