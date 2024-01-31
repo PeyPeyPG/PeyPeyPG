@@ -3,7 +3,7 @@
 ## About Me
 <p></p>
 
-I'm Peyton Duong currently a junior computer science major at LSU minoring in electrical engineering and math. Recently, I've been fascinated by AI and how we could implement it in our everyday lives. It's all the hype right now. But, I don't want to hop on the bandwagon; I want to drive it.
+I'm Peyton Duong currently a junior computer science major at UTD. Recently, I've been fascinated by AI and how we could implement it in our everyday lives. It's all the hype right now. But, I don't want to hop on the bandwagon; I want to drive it.
 
 ---
 
